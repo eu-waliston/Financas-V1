@@ -1,0 +1,24 @@
+{
+    "operations": [
+        {
+            "id": 1,
+            "nome": "conta de agua",
+            "valor": 150
+        },
+        {
+            "id": 2,
+            "nome": "conta de luz",
+            "valor": 350
+        },
+        {
+            "id": 3,
+            "nome": "aluguel",
+            "valor": 900
+        },
+        {
+            "id": 3,
+            "nome": "aluguel",
+            "valor": 900
+        }
+    ]
+}
