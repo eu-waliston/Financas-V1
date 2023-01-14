@@ -1,24 +1,19 @@
 {
-    "operations": [
-        {
-            "id": 1,
-            "nome": "conta de agua",
-            "valor": 150
-        },
-        {
-            "id": 2,
-            "nome": "conta de luz",
-            "valor": 350
-        },
-        {
-            "id": 3,
-            "nome": "aluguel",
-            "valor": 900
-        },
-        {
-            "id": 3,
-            "nome": "aluguel",
-            "valor": 900
-        }
-    ]
+  "operations": [
+    {
+      "id": 1,
+      "nome": "Comprar pão",
+      "valor": 5
+    },
+    {
+      "nome": "asdasd",
+      "valor": "222",
+      "id": 2
+    },
+    {
+      "nome": "qweqwe",
+      "valor": "2222",
+      "id": 3
+    }
+  ]
 }
